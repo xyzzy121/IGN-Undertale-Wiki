@@ -1,0 +1,1240 @@
+Uri: https://apps.ign.com/video-player/fonts/ars400normal.woff
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\video-player\fonts\ars400normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700italic.woff
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\video-player\fonts\ars700italic.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars700normal.woff
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\video-player\fonts\ars700normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/ars900normal.woff
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\video-player\fonts\ars900normal.woff
+Content Type: application/font-woff
+
+Uri: https://apps.ign.com/video-player/fonts/VisbyRoundCF-Heavy.woff2
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\video-player\fonts\VisbyRoundCF-Heavy.woff2
+Content Type: application/font-woff2
+
+Uri: https://assets-prd.ignimgs.com/2022/02/01/understale-sq-1643754419947.jpg?width=300&crop=1:1%2Csmart&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\2022\02\01\understale-sq-1643754419947-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/02/01/understale-sq-1643754419947.jpg?width=64
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\2022\02\01\understale-sq-1643754419947.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/02/01/understale-sq-1643754419947.jpg?width=64&dpr=2
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\2022\02\01\understale-sq-1643754419947-2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/05/23/steelseries-arctis-nova-pro-wireless-blogroll-1653347057671.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\2022\05\23\steelseries-arctis-nova-pro-wireless-blogroll-1653347057671.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/05/25/sniper-blogroll-1653460292007.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\2022\05\25\sniper-blogroll-1653460292007.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/06/01/diablo-blogroll-1654083168943.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\2022\06\01\diablo-blogroll-1654083168943.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/06/01/obi-wan-ep3-blog-1654078598120.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\2022\06\01\obi-wan-ep3-blog-1654078598120.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/06/02/dragon-age-dreadwolf-1x1-1080-1654186300574.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\2022\06\02\dragon-age-dreadwolf-1x1-1080-1654186300574.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/2022/06/02/streetfighter6-news-blogroll-01-1654209096407.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\2022\06\02\streetfighter6-news-blogroll-01-1654209096407.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-prd.ignimgs.com/avatars/4ee1090e4c168ba745496262/stillu-1607715249216.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\avatars\4ee1090e4c168ba745496262\stillu-1607715249216.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/2/22/erthingsyt-1645564331384.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\thumbs\userUploaded\2022\2\22\erthingsyt-1645564331384.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/3/24/batmanarkhamdeletedsceneignblogroll1-1648143931311.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\thumbs\userUploaded\2022\3\24\batmanarkhamdeletedsceneignblogroll1-1648143931311.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/4/29/metaverse-blogrollthumbnail-1651244627800.png?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\thumbs\userUploaded\2022\4\29\metaverse-blogrollthumbnail-1651244627800.png
+Content Type: image/png
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/19/ignguidesvrisingthumbthingstdfirstyt-1652959593633.png?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\thumbs\userUploaded\2022\5\19\ignguidesvrisingthumbthingstdfirstyt-1652959593633.png
+Content Type: image/png
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/24/erpvp-1653432587271.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\thumbs\userUploaded\2022\5\24\erpvp-1653432587271.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/24/thor-1653357743054.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\thumbs\userUploaded\2022\5\24\thor-1653357743054.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/26/cinefixtop10aerialdogfightsblogroll-1653578614551.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\thumbs\userUploaded\2022\5\26\cinefixtop10aerialdogfightsblogroll-1653578614551.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/26/top-gunbloga-1653561039112.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\thumbs\userUploaded\2022\5\26\top-gunbloga-1653561039112.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/3/ps5vrrupdatetestsonspidermanbloodbornemoreperformancereview36190303ps5vrrblogroll02-1651570221355.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\thumbs\userUploaded\2022\5\3\ps5vrrupdatetestsonspidermanbloodbornemoreperformancereview36190303ps5vrrblogroll02-1651570221355.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/31/ignfirst-sonicfrontiers-worldpremieregameplayblogroll-1654026496864.jpeg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\thumbs\userUploaded\2022\5\31\ignfirst-sonicfrontiers-worldpremieregameplayblogroll-1654026496864.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/4/re4v2inventoryblog-1651681534410.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\thumbs\userUploaded\2022\5\4\re4v2inventoryblog-1651681534410.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/5/9/avatarthewayofwaterofficialteasertrailerignblogroll-1652106384393.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\thumbs\userUploaded\2022\5\9\avatarthewayofwaterofficialteasertrailerignblogroll-1652106384393.jpg
+Content Type: image/jpeg
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/6/2/image-1654209232175.png?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\thumbs\userUploaded\2022\6\2\image-1654209232175.png
+Content Type: image/png
+
+Uri: https://assets1.ignimgs.com/thumbs/userUploaded/2022/6/3/re4-remake-1654207743431.jpg?width=282&crop=16:9&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\thumbs\userUploaded\2022\6\3\re4-remake-1654207743431.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.ziffstatic.com/jst/zdconsent.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\jst\zdconsent.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.css
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\pg\ign.css
+Content Type: text/css
+
+Uri: https://cdn.ziffstatic.com/pg/ign.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\pg\ign.js
+Content Type: application/javascript
+
+Uri: https://cdn.ziffstatic.com/pg/ign.prebid.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\pg\ign.prebid.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/favicon.ico
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://kraken.ignimgs.com/_next/static/Ac5PqxVnCv95yJDEPvCuT/_buildManifest.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\Ac5PqxVnCv95yJDEPvCuT\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/Ac5PqxVnCv95yJDEPvCuT/_ssgManifest.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\Ac5PqxVnCv95yJDEPvCuT\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/1250-f0984fbfea24438c25b2.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\1250-f0984fbfea24438c25b2.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2451-e0e7e929fc91329f8ab3.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\2451-e0e7e929fc91329f8ab3.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/2778-cdac0c3a41aafb859d20.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\2778-cdac0c3a41aafb859d20.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/3325-6b54ca5b43dced3dfd84.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\3325-6b54ca5b43dced3dfd84.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/3335-f37f50935d90c36de450.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\3335-f37f50935d90c36de450.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/4735-fecddd9e4f12282111ed.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\4735-fecddd9e4f12282111ed.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/571-147baf2d4176498805a1.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\571-147baf2d4176498805a1.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/5914-92029dbf8de4df9727cf.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\5914-92029dbf8de4df9727cf.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6306-9add02503bb69c398284.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\6306-9add02503bb69c398284.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6522-bcb32ebb00bc5966de63.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\6522-bcb32ebb00bc5966de63.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/6899-bdbcb4ac399f50d821c0.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\6899-bdbcb4ac399f50d821c0.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/7263-3326c3898eef7a8228d5.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\7263-3326c3898eef7a8228d5.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/7356-d3d0a5d0c668804b718d.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\7356-d3d0a5d0c668804b718d.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8514-4fca63ab44f3b965b8aa.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\8514-4fca63ab44f3b965b8aa.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/8740-ed818a038011c2bf8df5.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\8740-ed818a038011c2bf8df5.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9185-e8d1fd85439b18b56b4f.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\9185-e8d1fd85439b18b56b4f.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/9456-26bb82cec46c98c7c416.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\9456-26bb82cec46c98c7c416.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/framework-57ad11da4426b1404226.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\framework-57ad11da4426b1404226.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/main-b87df09e7fc063b37f88.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\main-b87df09e7fc063b37f88.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/listpages-3a5182175e427b54706d.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\pages\wikis\listpages-3a5182175e427b54706d.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/show-62d6e732263dc299c64b.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\pages\wikis\show-62d6e732263dc299c64b.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/wikis/topcontributors-46603cdd1397616efa55.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\pages\wikis\topcontributors-46603cdd1397616efa55.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/pages/_app-439942a60aba69371431.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\pages\_app-439942a60aba69371431.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\polyfills-a40ef1678bae11e696dba45124eadd70.js
+Content Type: application/javascript
+
+Uri: https://kraken.ignimgs.com/_next/static/chunks/webpack-3d921bab65429e4b587f.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\_next\static\chunks\webpack-3d921bab65429e4b587f.js
+Content Type: application/javascript
+
+Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/ign.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\src\core\img\social\avatars\ign.jpg
+Content Type: image/jpeg
+
+Uri: https://oystatic.ignimgs.com/src/core/img/social/avatars/male1.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\src\core\img\social\avatars\male1.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/0/03/Napstablook.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\0\03\Napstablook.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/0/03/Truelab7.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\0\03\Truelab7.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/0/06/Royalguards2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\0\06\Royalguards2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/0/07/Ruinsexplore5.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\0\07\Ruinsexplore5.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/0/07/Waterfall8.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\0\07\Waterfall8.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/0/08/Genocide3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\0\08\Genocide3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/0/08/Undynedate1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\0\08\Undynedate1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/0/0a/Sansfight4.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\0\0a\Sansfight4.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/0/0b/Asgore.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\0\0b\Asgore.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/0/0c/Bossundyne.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\0\0c\Bossundyne.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/0/0e/Snowdin10.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\0\0e\Snowdin10.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/1/10/Newhome4.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\1\10\Newhome4.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/1/13/Newhome1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\1\13\Newhome1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/1/14/Snowdin.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\1\14\Snowdin.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/1/15/Hotlands16.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\1\15\Hotlands16.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/1/16/Flowey.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\1\16\Flowey.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/1/16/Undynedate.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\1\16\Undynedate.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/1/16/Whimsun.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\1\16\Whimsun.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/1/17/Core1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\1\17\Core1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/1/17/Ruinsexplore6.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\1\17\Ruinsexplore6.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/1/18/Truelab12.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\1\18\Truelab12.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/1/19/Ruinsexplore12.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\1\19\Ruinsexplore12.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/1/1a/Flowey_photoshop.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\1\1a\Flowey_photoshop.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/2/21/Truelab3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\2\21\Truelab3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/2/21/Waterfall18.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\2\21\Waterfall18.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/2/22/Knight_knight.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\2\22\Knight_knight.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/2/23/So_sorry.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\2\23\So_sorry.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/2/24/Sansfight1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\2\24\Sansfight1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/2/28/5TpewjP.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\2\28\5TpewjP.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/2/28/Newhome6.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\2\28\Newhome6.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/2/29/Prologue1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\2\29\Prologue1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/2/2d/Waterfall17.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\2\2d\Waterfall17.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/2/2e/Jerry.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\2\2e\Jerry.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/2/2e/Undertale-generaljpg-88267f.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\2\2e\Undertale-generaljpg-88267f.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/2/2f/Greaterdog.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\2\2f\Greaterdog.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/2/2f/Hotlands13.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\2\2f\Hotlands13.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/3/32/Ruinsexplore3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\3\32\Ruinsexplore3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/3/38/Metatron_ex_1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\3\38\Metatron_ex_1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/3/39/Flowey_photoshop1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\3\39\Flowey_photoshop1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/3/3a/Truelab13.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\3\3a\Truelab13.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/3/3b/Asriel1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\3\3b\Asriel1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/3/3b/Screen_Shot_2017-08-15_at_3.27.05_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\3\3b\Screen_Shot_2017-08-15_at_3.27.05_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/3/3c/Waterfall7.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\3\3c\Waterfall7.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/3/3e/Ruinsexplore.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\3\3e\Ruinsexplore.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/3/3e/Torielshouse.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\3\3e\Torielshouse.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/4/41/Madmewmew2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\4\41\Madmewmew2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/4/43/Truelab10.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\4\43\Truelab10.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/4/45/Snowdin4.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\4\45\Snowdin4.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/4/46/Pyrope.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\4\46\Pyrope.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/4/48/Pianowaterfallpuzzle.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\4\48\Pianowaterfallpuzzle.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/4/48/Snowdin9.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\4\48\Snowdin9.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/4/4a/Lesserdog.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\4\4a\Lesserdog.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/4/4a/Sansfight3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\4\4a\Sansfight3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/4/4c/Truelab14.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\4\4c\Truelab14.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/4/4d/Bossundyne3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\4\4d\Bossundyne3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/4/4e/Gyftrot.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\4\4e\Gyftrot.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/4/4e/Torielboss.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\4\4e\Torielboss.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/5/50/Truelab11.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\5\50\Truelab11.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/5/54/Hotlands10.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\5\54\Hotlands10.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/5/54/Screen_Shot_2015-12-15_at_4.32.21_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\5\54\Screen_Shot_2015-12-15_at_4.32.21_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/5/57/Newhome3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\5\57\Newhome3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/5/59/Waterfall9.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\5\59\Waterfall9.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/5/5a/Switch_dog_shrine.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\5\5a\Switch_dog_shrine.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/5/5c/Truelab9.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\5\5c\Truelab9.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/5/5e/Waterfall4.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\5\5e\Waterfall4.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/5/5f/Muffet2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\5\5f\Muffet2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/6/60/Waterfall16.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\6\60\Waterfall16.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/6/63/Hotlands7.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\6\63\Hotlands7.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/6/64/Hotlands2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\6\64\Hotlands2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/6/65/Ruinsexplore10.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\6\65\Ruinsexplore10.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/6/65/Ruinstoriel1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\6\65\Ruinstoriel1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/6/65/Ruinstoriel2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\6\65\Ruinstoriel2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/6/65/Waterfall.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\6\65\Waterfall.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/6/67/Migosp.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\6\67\Migosp.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/6/68/Snowdin2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\6\68\Snowdin2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/6/69/Truelab8.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\6\69\Truelab8.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/6/6a/Truelab2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\6\6a\Truelab2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/6/6c/Waterfall3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\6\6c\Waterfall3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/6/6d/Froggit.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\6\6d\Froggit.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/7/74/Waterfall11.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\7\74\Waterfall11.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/7/75/Madjeck.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\7\75\Madjeck.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/7/75/Waterfall14.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\7\75\Waterfall14.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/7/78/Madmewmew.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\7\78\Madmewmew.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/7/78/Mysteriousdoor.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\7\78\Mysteriousdoor.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/7/78/Truelab.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\7\78\Truelab.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/7/79/Switchcollectorsedition.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\7\79\Switchcollectorsedition.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/7/7a/Snowdin11.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\7\7a\Snowdin11.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/7/7b/Waterfall2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\7\7b\Waterfall2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/7/7d/Vulkin.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\7\7d\Vulkin.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/7/7f/Hotlands6.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\7\7f\Hotlands6.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/8/80/Asgore2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\8\80\Asgore2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/8/81/Waterfall1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\8\81\Waterfall1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/8/84/Metatton_ex.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\8\84\Metatton_ex.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/8/87/Temmie.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\8\87\Temmie.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/8/88/Hotlands12.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\8\88\Hotlands12.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/8/88/Papyrusdate.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\8\88\Papyrusdate.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/8/88/Truelab5.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\8\88\Truelab5.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/8/89/Sansdight2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\8\89\Sansdight2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/8/8a/Snowdin12.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\8\8a\Snowdin12.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/8/8d/Mettatton_boss_battle.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\8\8d\Mettatton_boss_battle.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/8/8d/Royalguards.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\8\8d\Royalguards.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/8/8e/Ruinsexplore1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\8\8e\Ruinsexplore1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/9/90/Hotlands4.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\9\90\Hotlands4.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/9/90/Sansfight2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\9\90\Sansfight2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/9/90/Snowdin6.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\9\90\Snowdin6.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/9/93/Aaron.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\9\93\Aaron.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/9/95/Snowdin8.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\9\95\Snowdin8.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/9/97/Newhome2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\9\97\Newhome2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/9/99/Papyrus.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\9\99\Papyrus.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/9/99/Ruinsexplore9.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\9\99\Ruinsexplore9.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/9/99/Screen_Shot_2017-08-15_at_3.17.06_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\9\99\Screen_Shot_2017-08-15_at_3.17.06_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/9/99/Waterfall12.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\9\99\Waterfall12.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/9/9a/Newhome5.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\9\9a\Newhome5.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/9/9a/Ruinsexplore11.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\9\9a\Ruinsexplore11.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/9/9a/Waterfall13.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\9\9a\Waterfall13.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/9/9c/Snowdin7.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\9\9c\Snowdin7.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/9/9d/Core2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\9\9d\Core2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/9/9d/Final_froggit.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\9\9d\Final_froggit.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/9/9d/Vegetoid.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\9\9d\Vegetoid.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/9/9e/Product_overhead_photo1_1024x1024.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\9\9e\Product_overhead_photo1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/9/9f/Temmie_armor.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\9\9f\Temmie_armor.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/9/9f/Undyneboss2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\9\9f\Undyneboss2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/a/a1/Hotlands1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\a\a1\Hotlands1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/a/a4/Ruinstoriel3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\a\a4\Ruinstoriel3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/a/a6/Ruinsexplore7.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\a\a6\Ruinsexplore7.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/a/a7/Genocide2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\a\a7\Genocide2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/a/a7/Ruinsexplore2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\a\a7\Ruinsexplore2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/a/ad/Truelab4.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\a\ad\Truelab4.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/a/af/Hotlands15.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\a\af\Hotlands15.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/a/af/Waterfall6.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\a\af\Waterfall6.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/b/b1/Ruinstoriel5.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\b\b1\Ruinstoriel5.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/b/b1/Snowdrake.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\b\b1\Snowdrake.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/b/b3/Muffet.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\b\b3\Muffet.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/b/b6/Screen_Shot_2017-08-15_at_3.33.56_PM.png?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\b\b6\Screen_Shot_2017-08-15_at_3.33.56_PM.png
+Content Type: image/png
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/b/b8/Tsunderplane.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\b\b8\Tsunderplane.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/b/b9/Moldsmal.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\b\b9\Moldsmal.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/b/b9/Newhome.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\b\b9\Newhome.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/b/ba/Genocide1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\b\ba\Genocide1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/b/bb/Madmewmew1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\b\bb\Madmewmew1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/b/bb/Washua.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\b\bb\Washua.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/b/bc/Genocide.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\b\bc\Genocide.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/b/be/Sansfight.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\b\be\Sansfight.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/b/be/Truelab6.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\b\be\Truelab6.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/c/c2/Doggo.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\c\c2\Doggo.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/c/c3/Astigmatism.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\c\c3\Astigmatism.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/c/c3/Ruinsexplore4.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\c\c3\Ruinsexplore4.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/c/c4/Undynedate2.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\c\c4\Undynedate2.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/c/c5/Snowdin3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\c\c5\Snowdin3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/c/c7/Waterfall19.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\c\c7\Waterfall19.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/c/c9/Hotlands9.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\c\c9\Hotlands9.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/c/c9/Undyneboss.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\c\c9\Undyneboss.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/c/cc/Loox.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\c\cc\Loox.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/c/cf/Truelab1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\c\cf\Truelab1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/d/d0/Dummyboss.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\d\d0\Dummyboss.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/d/d0/Hotlands8.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\d\d0\Hotlands8.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/d/d2/Hotlands11.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\d\d2\Hotlands11.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/d/d3/Product_overhead_photo8_1024x1024.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\d\d3\Product_overhead_photo8_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/d/de/Waterfall5.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\d\de\Waterfall5.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/d/df/Hotlands5.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\d\df\Hotlands5.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/d/df/MettatonNeo.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\d\df\MettatonNeo.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/e/e4/Dogi.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\e\e4\Dogi.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/e/e4/Whimsalot.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\e\e4\Whimsalot.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/e/e7/Waterfall15.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\e\e7\Waterfall15.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/e/e8/Hotlands3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\e\e8\Hotlands3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/e/e9/Icecap.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\e\e9\Icecap.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/e/ee/Hotlands.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\e\ee\Hotlands.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/e/ef/Core3.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\e\ef\Core3.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/f/f2/Moldbugg.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\f\f2\Moldbugg.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/f/f5/GRshqim.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\f\f5\GRshqim.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/f/f6/Snowdin5.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\f\f6\Snowdin5.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/f/f7/Ruinsexplore8.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\f\f7\Ruinsexplore8.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/f/f9/Ruinstoriel4.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\f\f9\Ruinstoriel4.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/f/fa/Shyren.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\f\fa\Shyren.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/f/fa/Snowdin1.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\f\fa\Snowdin1.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/f/fb/Core.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\f\fb\Core.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/f/fe/Asriel.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\f\fe\Asriel.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/f/fe/Waterfall10.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\f\fe\Waterfall10.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/f/ff/DOGSHRINE.00_05_21_20.Still001.jpg?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\f\ff\DOGSHRINE.00_05_21_20.Still001.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/mediawiki/apis.ign.com/undertale/f/ff/Hotlands14.JPG?width=200&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\mediawiki\apis.ign.com\undertale\f\ff\Hotlands14.JPG
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/social/avatars/users/182849321-1295996823.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\social\avatars\users\182849321-1295996823.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/social/avatars/users2/48/96244569-1505692984.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\social\avatars\users2\48\96244569-1505692984.jpg
+Content Type: image/jpeg
+
+Uri: https://oyster.ignimgs.com/social/avatars/users2/78/5039825-1420848487.jpg?width=21&crop=1:1&quality=20&dpr=0.05
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\social\avatars\users2\78\5039825-1420848487.jpg
+Content Type: image/jpeg
+
+Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\tag\js\gpt.js
+Content Type: text/javascript
+
+Uri: https://www.ign.com/wikis/undertale
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\index.htm
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/allpages
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\allpages.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Boss_Guide
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Boss_Guide.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Characters
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Characters.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Cheats_and_Secrets
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Cheats_and_Secrets.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Child
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Child.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Endings
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Endings.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Aaron.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileAaron.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Astigmatism.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileAstigmatism.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Final_froggit.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileFinal_froggit.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Froggit.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileFroggit.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Gyftrot.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileGyftrot.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Icecap.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileIcecap.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Jerry.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileJerry.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Knight_knight.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileKnight_knight.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Lesserdog.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileLesserdog.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Loox.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileLoox.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Madjeck.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileMadjeck.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Migosp.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileMigosp.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Moldbugg.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileMoldbugg.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Moldsmal.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileMoldsmal.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Pyrope.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FilePyrope.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Shyren.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileShyren.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Snowdin4.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileSnowdin4.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Snowdrake.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileSnowdrake.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Temmie.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileTemmie.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Tsunderplane.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileTsunderplane.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Vegetoid.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileVegetoid.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Vulkin.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileVulkin.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Washua.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileWashua.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Whimsalot.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileWhimsalot.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/File:Whimsun.JPG
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\FileWhimsun.JPG.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Genocide_-_Hotland_and_The_Core
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Genocide_-_Hotland_and_The_Core.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Genocide_-_Hotland_and_The_Core/
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Genocide_-_Hotland_and_The_Core\index.htm
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Genocide_-_New_Home
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Genocide_-_New_Home.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Genocide_-_Ruins
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Genocide_-_Ruins.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Genocide_-_Snowdin
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Genocide_-_Snowdin.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Genocide_-_Waterfall
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Genocide_-_Waterfall.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Genocide_Walkthrough
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Genocide_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Hotland
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Hotland.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/New_Content_in_PS4_Version
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\New_Content_in_PS4_Version.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/New_Content_in_Switch_Version
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\New_Content_in_Switch_Version.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/New_Home
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\New_Home.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Pacifist_-_Hotlands
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Pacifist_-_Hotlands.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Pacifist_-_New_Home
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Pacifist_-_New_Home.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Pacifist_-_Ruins
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Pacifist_-_Ruins.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Pacifist_-_Snowdin
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Pacifist_-_Snowdin.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Pacifist_-_The_Core
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Pacifist_-_The_Core.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Pacifist_-_True_Laboratory
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Pacifist_-_True_Laboratory.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Pacifist_-_Waterfall
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Pacifist_-_Waterfall.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Pacifist_Walkthrough
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Pacifist_Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Piano_Puzzle
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Piano_Puzzle.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Puzzles_Guide
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Puzzles_Guide.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Ruins
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Ruins.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Sans
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Sans.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Snowdin
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Snowdin.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Temmie_Village
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Temmie_Village.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/The_Core
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\The_Core.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/The_Dog_Shrine
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\The_Dog_Shrine.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/topcontributors
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\topcontributors.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Walkthrough
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Walkthrough.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Waterfall
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Waterfall.html
+Content Type: text/html
+
+Uri: https://www.ign.com/wikis/undertale/Weapons
+File Name: C:\Users\ls356\Downloads\Ign Wikis\Undertale\wikis\undertale\Weapons.html
+Content Type: text/html
+
